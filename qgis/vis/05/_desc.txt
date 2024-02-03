@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=E6mDNhDxjLw
+How to create COVID-19 animation with QGIS Temporal Controller
+
+Enlaces mencionado: communityhealthmaps.org/blog/creating-a-covid-animation-through-time-with-qgis
+
+https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv
+
+

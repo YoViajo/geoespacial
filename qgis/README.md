@@ -47,3 +47,5 @@ Software QGIS
 [Prueba de exportación de elementos geográficos a ambiente de edición gráfica](vis/03/)
 
 [Visualización dinámica de las rutas de la red fundamental de caminos de Bolivia](vis/04/)
+
+[Cómo crear una animación COVID-19 con el controlador temporal de QGIS](vis/05/)
