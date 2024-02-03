@@ -1,0 +1,38 @@
+// Acceso a aplicación
+uMap, enlace: 
+https://umap.openstreetmap.fr/es/map/barrio-las-palmas-oferta-inmobiliaria_749756#17/-17.80378/-63.21025
+
+
+// Corrección de ubicación (coordenadas geográficas) mediante JOSM y complementos
+-> imágenes con metadatos EXIF sobreescritos
+
+// A importar a uMap. Contiene nombre imagen y coordenadas geográficas (corregidas)
+imgs_exifs_2.csv
+
+// Ref uMap: https://wiki.openstreetmap.org/wiki/UMap/Guide/Text_formatting
+// Edición manual de descripción de puntos. Modelo de texto de ventana de info emergente
+# **Apartamentos en venta**
+Condominio Varese
+Preventa
+1, 2 y 3 dormitorios
+2 penthouse
+
+# Rodrigo Aguilera - cel: 721-21626
+
+
+// Herramientas p/ mostrar coordenadas geográficas de una imagen
+$ identify -format "%[EXIF:*GPS*]" IMG_20220412_165753.jpg
+exif:GPSAltitudeRef=0
+exif:GPSDateStamp=2022:04:12
+exif:GPSInfo=2820
+exif:GPSLatitude=17/1, 48/1, 148889/12647
+exif:GPSLatitudeRef=S
+exif:GPSLongitude=63/1, 12/1, 415920/9929
+exif:GPSLongitudeRef=W
+exif:GPSTimeStamp=20/1, 57/1, 50/1
+exif:GPSVersionID=2, 3, 0, 0
+
+$ exiftool -gpslatitude -gpslongitude IMG_20220412_165753.jpg
+GPS Latitude                    : 17 deg 48' 11.77" S
+GPS Longitude                   : 63 deg 12' 41.89" W
+

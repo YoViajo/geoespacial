@@ -1,0 +1,5 @@
+Aplicación inmobiliaria Barrio Las Palmas
+
+> implementación inicial en QGIS
+> exportado a web (qgis2web)
+
