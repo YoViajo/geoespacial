@@ -6,8 +6,10 @@ Ejercicios con las herramientas geoespaciales de Google
 
 ## 📊 Contenido
 
-[Generador de animación lapso de tiempo con imágenes GEE](01/bol_timelapse_fading_create.ipynb)
+**Google Earth**
 
-[Creación de mapas de calidad de publicación a partir de GEE](02/cartoee_basemap.ipynb)
+[Generador de animación lapso de tiempo con imágenes](01/bol_timelapse_fading_create.ipynb)
 
-[Demostración básica de visualización de imágenes GEE](03/geemap_demo.ipynb)
+[Creación de mapas de calidad de publicación](02/cartoee_basemap.ipynb)
+
+[Demostración básica de visualización de imágenes](03/geemap_demo.ipynb)
