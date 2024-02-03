@@ -1,0 +1,1 @@
+El sistema de referencia que tiene Google Earth es el EPSG 4326 
