@@ -36,6 +36,8 @@ Software QGIS
 
 [Detección IA para imágenes de satélite con complemento Mapflow](12/)
 
+[Mapflow. Obtener mapas a partir de píxeles](13/)
+
 **CARTOGRAFÍA & VISUALIZACIÓN**
 
 [Principales áreas urbanas de Bolivia](vis/06/)

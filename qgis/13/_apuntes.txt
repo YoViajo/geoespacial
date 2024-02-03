@@ -1,0 +1,6 @@
+Área de interés (AdI): Scz, barrio Las Palmas, incluyendo cancha golf
+
+Objetivos:
+
+1) bosque -> no detectó bosques en 2 intentos
+2) caminos -> detectó caminos, aunque con desplazamiento (imagen) e incompleto (imagen?)
