@@ -1,0 +1,5 @@
+ogr2ogr sc-19-08_pol.shp sc-19-08.dgn -where "OGR_GEOMETRY = 'POLYGON'" -nln sc-19-08_pol
+
+ogr2ogr sc-19-08_lin.shp sc-19-08.dgn -where "OGR_GEOMETRY = 'LINESTRING'" -nln sc-19-08_lin
+
+ogr2ogr sc-19-08_pto.shp sc-19-08.dgn -where "OGR_GEOMETRY = 'POINT'" -nln sc-19-08_pto
