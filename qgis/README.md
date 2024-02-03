@@ -38,7 +38,7 @@ Software QGIS
 
 **CARTOGRAFÍA & VISUALIZACIÓN**
 
-[Principales áreas urbanas de Bolivia](vis/12/)
+[Principales áreas urbanas de Bolivia](vis/06/)
 
 [Huella de caminos y vías férreas en Bolivia](vis/01/)
 
