@@ -1,0 +1,6 @@
+https://mappinggis.com/2022/09/pgmetadata-metadatos-en-qgis-para-capas-postgis-%f0%9f%90%98/
+https://www.youtube.com/watch?v=IaIIGHuogwM
+
+Introducción a PgMetadata, un complemento QGIS para almacenar metadatos para capas PostgreSQL dentro de una base de datos PostgreSQL.
+
+

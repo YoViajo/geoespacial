@@ -30,3 +30,5 @@
 [Generadores de cuadrículas](12/)
 
 [Operaciones básicas con Postgresql/Postgis usando [R]](13/integrar_postgresql_postgis.R)
+
+[Introducción a PgMetadata, un complemento QGIS para almacenar metadatos](14/)
