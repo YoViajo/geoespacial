@@ -1,0 +1,20 @@
+
+// Cálculo de superficies
+SELECT *, concat(round((st_area(geom)::numeric),2), ' m²') as area
+FROM public.parcelas
+
+// Cálculo de centroides
+SELECT *, st_centroid(geom) AS geom_centroid
+FROM public.parcelas
+
+// Cálculo de distancias
+SELECT concat(round(st_distance(st_centroid(a.geom),st_centroid(b.geom))::numeric,2), ' metros') as distancia
+FROM public.parcelas a, public.parcelas b
+WHERE a.nomenclatu = '1101010404007002' AND b.nomenclatu = '1101010404058039'
+
+// Cálculo de longitud
+SELECT *, concat(round((st_length(geom)::numeric),2), ' m') AS distancia
+FROM public.red_nacional
+
+
+

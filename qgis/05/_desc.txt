@@ -1,0 +1,4 @@
+Microsoft South America building footprints
+https://github.com/microsoft/SouthAmericaBuildingFootprints
+
+Huellas de edificios para Bolivia (Santa Cruz y La Paz)

@@ -1,0 +1,9 @@
+
+// Importar datos CSV en BD postgresql
+ogr2ogr -f PostgreSQL PG:"host=localhost user=postgres dbname=prueba password=postgres"  /home/yoviajo/Documentos/lab/bd/97/dat/lista_aves_JBSC_ed.csv -oo AUTODETECT_TYPE=YES
+
+
+// Consultas SQL varias (pgAdmin4)
+consulta_1      Lista de autores con cantidad de registros ingresados en la BD
+
+

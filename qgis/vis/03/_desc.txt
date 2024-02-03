@@ -1,0 +1,5 @@
+[QGIS]
+Prueba de exportación de elementos geográficos a ambiente de edición gráfica.
+
+[Inkscape]
+Edición (separación) de elementos geográficos y creación de cartografía personalizada.

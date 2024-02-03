@@ -1,0 +1,11 @@
+Comparación de métodos para generar un informe de la superficie de categoría de una capa ráster de uso de la tierra
+
+1) Opción A: vector
+- vectorización de capa ráster = 4093,95 seg = 68+ min
+- cálculo de área
+- resumen de clases ([virtual layer, consulta SQL])
+
+2) Opción B: ráster
+- resumen de clases directamente  [r.report]
+
+Resultado: El método ráster es significativamente más rápido mientras mantiene una diferencia mínima de exactitud (< -0,1%) con el método vector.

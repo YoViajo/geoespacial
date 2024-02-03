@@ -1,0 +1,25 @@
+SHOW search_path;
+SET search_path TO samerica,public;
+
+SELECT country
+FROM southamerica_adm0_edited  
+WHERE country = 'BRASIL';
+
+// crear cuadrícula cada 400000 metros para Brasil
+SELECT (ST_SquareGrid(400000, ST_Transform(a.geom, 3857))).* 
+FROM southamerica_adm0_edited a  
+WHERE country = 'BRASIL';
+
+SELECT (ST_SquareGrid(400000, ST_Transform(a.geom, 3857))).* 
+FROM southamerica_adm0_edited a  
+WHERE country = 'BOLIVIA';
+
+
+SELECT (ST_HexagonGrid(100000, ST_Transform(a.geom, 3857))).* 
+FROM admin a  
+WHERE name = 'Germany';
+
+
+
+// EPSG:3857
+// WGS 84 / Pseudo-Mercator -- Spherical Mercator, Google Maps, OpenStreetMap, Bing, ArcGIS, ESRI

@@ -1,0 +1,6 @@
+https://gist.github.com/chriswhong/067cb12d74fbb6297bdd657d1e4da00b
+Get a CSV into a postgresql table
+
+Importación de tabla CSV en una tabla PGSQL
+
++ Prueba comando SQL

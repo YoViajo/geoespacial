@@ -1,0 +1,4 @@
+https://www.idecor.gob.ar/como-hacer-consultas-espaciales-con-postgis/
+
+Cómo hacer consultas espaciales con PostGIS
+

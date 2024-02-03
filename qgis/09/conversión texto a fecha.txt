@@ -1,0 +1,1 @@
+to_date( concat( left("Data",4), '-',left(right( "Data" ,4),2), '-', right(  "Data" ,2)))

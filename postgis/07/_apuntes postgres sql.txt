@@ -1,0 +1,28 @@
+
+// Ajuste para poder llamar a PSQL desde una cuenta de SO que no se llame POSTGRES
+// hacer copia de respaldo de la configuración
+sudo cp /etc/postgresql/14/main/pg_hba.conf /etc/postgresql/14/main/pg_hba.conf_bk
+
+// modificación
+sudo sed -i -e 's/local   all             postgres                                peer/local   all             postgres                                md5/g' /etc/postgresql/14/main/pg_hba.conf
+
+// comparar versiones
+sudo diff /etc/postgresql/14/main/pg_hba.conf /etc/postgresql/14/main/pg_hba.conf_bk
+
+// reiniciar el servicio
+sudo /etc/init.d/postgresql restart
+
+
+\\ restaurar BDs a partir de archivos SQL
+psql -U postgres -d bd_bicicleta < bd_bicicleta.sql
+psql -U postgres -d bd_bolivia_base < bd_bolivia_base.sql
+psql -U postgres -d bd_bolivia_osm < bd_bolivia_osm.sql
+psql -U postgres -d bd_bolivia_osm_int < bd_bolivia_osm_int.sql
+psql -U postgres -d bd_bolivia_tematico < bd_bolivia_tematico.sql
+psql -U postgres -d bd_bolivia_urbano < bd_bolivia_urbano.sql
+psql -U postgres -d bd_global_base < bd_global_base.sql
+psql -U postgres -d bd_natural_earth < bd_natural_earth.sql
+psql -U postgres -d bd_raster < bd_raster.sql
+psql -U postgres -d bd_rocky < bd_rocky.sql
+psql -U postgres -d bd_senderismo < bd_senderismo.sql
+psql -U postgres -d prueba < prueba.sql

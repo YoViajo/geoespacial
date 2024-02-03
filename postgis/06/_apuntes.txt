@@ -1,0 +1,76 @@
+// Ref: https://github.com/gravitystorm/openstreetmap-carto/blob/master/INSTALL.md
+// Openstreetmap-carto install
+
+// Guardar variable de entorno en archivo /etc/environment
+EXPORT PGPASSWORD=postgres
+
+
+// Importar base de datos más reciente de OSM para Bolivia (descarga de GeoFabrik) en BD bd_bolivia_osm
+// Asegurar que archivo de hojas de estilo (openstreet*.*) estén en directorio local
+$ osm2pgsql -d bd_bolivia_osm -U postgres -W -H localhost -P 5432 -G --hstore --style openstreetmap-carto.style --tag-transform-script openstreetmap-carto.lua -r pbf bolivia-latest.osm_20220607.pbf
+
+salida>>
+osm2pgsql version 1.3.0
+
+Password:
+Allocating memory for dense node cache
+Allocating dense node cache in one big chunk
+Allocating memory for sparse node cache
+Sharing dense sparse
+Node-cache: cache=800MB, maxblocks=12800*65536, allocation method=3
+Using lua based tag processing pipeline with script openstreetmap-carto.lua
+Using projection SRS 3857 (Spherical Mercator)
+Setting up table: planet_osm_point
+Setting up table: planet_osm_line
+Setting up table: planet_osm_polygon
+Setting up table: planet_osm_roads
+
+Reading in file: bolivia-latest.osm_20220607.pbf
+Using PBF parser.
+Processing: Node(20056k 2865.1k/s) Way(1075k 32.58k/s) Relation(9809 3269.7/s)  parse time: 43s
+Node stats: total(20056876), max(9799598774) in 7s
+Way stats: total(1075123), max(1067288042) in 33s
+Relation stats: total(9809), max(14221996) in 3s
+node cache: stored: 20056876(100.00%), storage efficiency: 50.59% (dense blocks: 265, sparse nodes: 18737812), hit rate: 100.00%
+Sorting data and creating indexes for planet_osm_roads
+Sorting data and creating indexes for planet_osm_point
+Sorting data and creating indexes for planet_osm_line
+Sorting data and creating indexes for planet_osm_polygon
+Using native order for clustering
+Using native order for clustering
+Using native order for clustering
+Using native order for clustering
+Copying planet_osm_point to cluster by geometry finished
+Creating geometry index on planet_osm_point
+Creating indexes on planet_osm_point finished
+Copying planet_osm_roads to cluster by geometry finished
+Creating geometry index on planet_osm_roads
+Creating indexes on planet_osm_roads finished
+All indexes on planet_osm_point created in 19s
+All indexes on planet_osm_roads created in 19s
+Completed planet_osm_point
+Completed planet_osm_roads
+Copying planet_osm_polygon to cluster by geometry finished
+Creating geometry index on planet_osm_polygon
+Creating indexes on planet_osm_polygon finished
+All indexes on planet_osm_polygon created in 39s
+Completed planet_osm_polygon
+Copying planet_osm_line to cluster by geometry finished
+Creating geometry index on planet_osm_line
+Creating indexes on planet_osm_line finished
+All indexes on planet_osm_line created in 62s
+Completed planet_osm_line
+
+Osm2pgsql took 106s overall
+
+// Crear índices personalizados (archivo indexes.sql requerido)
+$ psql -d bd_bolivia_osm -f indexes.sql
+
+// Ejecutar carga de datos adicionales en la BD. conda <geoalt_env>
+$ python3 get-external-data.py -d bd_bolivia_osm -U postgres -w postgres -H localhost -p 5432 -c 
+
+
+// Importar datos OSM (internos, con metadatos) en BD
+$ osm2pgsql -d bd_bolivia_osm_int -U postgres -W -H localhost -P 5432 -G --hstore --style openstreetmap-carto.style --tag-transform-script openstreetmap-carto.lua -r pbf bolivia-latest-internal.osm_20220608.pbf
+
+

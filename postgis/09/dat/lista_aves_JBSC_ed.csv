@@ -1,0 +1,354 @@
+id,nom_espec,cuenta,fecha,fuente
+245,Short-tailed Nighthawk,X,1 ago 2015,Darla Anderson
+215,Maguari Stork,1,1 ago 2017,rudy gelis
+216,Green-barred Woodpecker,1,1 ago 2017,rudy gelis
+261,Hook-billed Kite,1,1 dic 2014,Kent Miller
+305,Rufous-sided Crake,X,1 jul 2007,Rolf Mall
+306,Gray Monjita,X,1 jul 2007,Rolf Mall
+254,Dark-billed Cuckoo,1,1 may 2015,Ross Gallardy
+255,Forest Elaenia,1,1 may 2015,Ross Gallardy
+256,Masked Yellowthroat,1,1 may 2015,Ross Gallardy
+257,Blue-black Grassquit,1,1 may 2015,Ross Gallardy
+236,Azure Gallinule,2,10 dic 2015,Glenn Seeholzer
+237,Sulphur-bellied Flycatcher,1,10 dic 2015,Glenn Seeholzer
+182,Masked Trogon,1,10 jun 2018,Arturo Rubio
+234,Tataupa Tinamou,1,10 mar 2016,Kent Miller
+235,Pale-vented Pigeon,2,10 mar 2016,Kent Miller
+240,Greater Rhea,2,10 sep 2015,BLANCHON Yoann
+241,Chestnut-capped Blackbird,1,10 sep 2015,BLANCHON Yoann
+307,Plumbeous Pigeon,1,11 dic 2006,Peter Hosner
+308,Ruddy Quail-Dove,1,11 dic 2006,Peter Hosner
+217,Suiriri Flycatcher,2,11 jul 2017,Ramiro Ramirez
+252,White-winged Becard,1,11 jun 2015,Oliver Bracko
+253,Yellowish Pipit,1,11 jun 2015,Oliver Bracko
+344,Fawn-breasted Tanager,1,12 ago 1992,Benjamin Clock
+288,Pied-billed Grebe,X,12 dic 2010,Todd Fellenbaum
+289,Jabiru,X,12 dic 2010,Todd Fellenbaum
+290,Cinereous-breasted Spinetail,X,12 dic 2010,Todd Fellenbaum
+187,Planalto Hermit,1,12 may 2018,J. Luis Martínez
+188,Ocellated Piculet,6,12 may 2018,J. Luis Martínez
+238,Eulers Flycatcher,1,12 sep 2015,Rich Hoyer
+239,Gray-lined Hawk,1,12 sep 2015,BLANCHON Yoann
+155,Red-winged Tinamou,1,12 sep 2018,Suzanne Vargas
+156,Buff-necked Ibis,2,12 sep 2018,Suzanne Vargas
+157,Greater Yellow-headed Vulture,3,12 sep 2018,Suzanne Vargas
+158,White-wedged Piculet,1,12 sep 2018,Suzanne Vargas
+159,Variable Antshrike,1,12 sep 2018,Suzanne Vargas
+160,Black-capped Antwren,1,12 sep 2018,Suzanne Vargas
+161,Plain-crowned Spinetail,2,12 sep 2018,Suzanne Vargas
+246,Gray-fronted Dove,1,13 jun 2015,Oliver Bracko
+247,Pearl Kite,1,13 jun 2015,Oliver Bracko
+248,Black-collared Hawk,1,13 jun 2015,Oliver Bracko
+249,Red-billed Scythebill,1,13 jun 2015,Oliver Bracko
+250,Sooty-fronted Spinetail,1,13 jun 2015,Oliver Bracko
+251,Hooded Siskin,4,13 jun 2015,Oliver Bracko
+337,Spectacled Tyrant,1,13 may 2001,Mich Coker
+338,Ultramarine Grosbeak,5,13 may 2001,Mich Coker
+340,Dusky-capped Flycatcher,1,13 oct 1997,Sebastian Herzog
+313,Gray-headed Kite,1,13 sep 2004,Jay VanderGaast
+314,Chestnut-backed Antshrike,2,13 sep 2004,Jay VanderGaast
+271,Andean Slaty Thrush,1,14 ago 2013,Ian Davies
+226,Masked Tityra,1,14 mar 2017,Sebastian Herzog
+318,White-chinned Sapphire,1,15 ago 2004,Peter Osenton
+299,White-browed Meadowlark,2,15 dic 2007,Matt Brady
+258,Spectacled Owl,2,15 dic 2014,Tjalle Boorsma
+180,Least Grebe,2,15 jul 2018,Hugo Santa Cruz
+181,Plain-breasted Ground-Dove,1,15 jul 2018,Hugo Santa Cruz
+311,Hudsons Black-Tyrant,1,15 oct 2004,Tor Egil Høgsås
+312,Southern Martin,1,15 oct 2004,Tor Egil Høgsås
+272,Long-winged Harrier,1,16 dic 2012,Ryan Terrill
+273,Rufous-fronted Thornbird,2,16 dic 2012,Ryan Terrill
+228,Roseate Spoonbill,1,16 nov 2016,David Mehlman
+229,Pale-breasted Spinetail,X,16 nov 2016,David Mehlman
+230,Black-backed Water-Tyrant,1,16 nov 2016,David Mehlman
+219,Purple Gallinule,1,17 abr 2017,Tjalle Boorsma
+220,Aplomado Falcon,1,17 abr 2017,Tjalle Boorsma
+221,Swainsons Flycatcher,1,17 abr 2017,Tjalle Boorsma
+222,Crested Becard,4,17 abr 2017,Tjalle Boorsma
+192,Bran-colored Flycatcher,1,17 abr 2018,Daniel Ordóñez
+339,Common Chlorospingus,3,17 jul 1999,Santiago Imberti
+176,Ash-throated Crake,2,17 jul 2018,W. Sergio Pantoja
+177,White-barred Piculet,2,17 jul 2018,W. Sergio Pantoja
+178,White-winged Swallow,2,17 jul 2018,W. Sergio Pantoja
+179,White-bellied Seedeater,1,17 jul 2018,W. Sergio Pantoja
+148,Eared Dove,1,17 sep 2018,Todd Pepper
+149,Great Antshrike,1,17 sep 2018,Todd Pepper
+150,Stranecks Tyrannulet,1,17 sep 2018,Todd Pepper
+151,Orange-backed Troupial,2,17 sep 2018,Todd Pepper
+152,Red-crowned Ant-Tanager,5,17 sep 2018,Todd Pepper
+153,Gray-headed Tanager,4,17 sep 2018,Todd Pepper
+154,White-winged Shrike-Tanager,1,17 sep 2018,Todd Pepper
+285,Yellow-chinned Spinetail,1,18 dic 2010,Kent Miller
+286,Large Elaenia,1,18 dic 2010,Kent Miller
+287,Double-collared Seedeater,6,18 dic 2010,Kent Miller
+193,Fork-tailed Flycatcher,10,18 feb 2018,Hugo Santa Cruz
+328,Swainsons Hawk,X,18 nov 2001,Mark Gawn
+329,Alder Flycatcher,X,18 nov 2001,Mark Gawn
+330,White-headed Marsh Tyrant,X,18 nov 2001,Mark Gawn
+331,Short-crested Flycatcher,X,18 nov 2001,Mark Gawn
+332,White-throated Kingbird,X,18 nov 2001,Mark Gawn
+210,Sharp-shinned Hawk,1,18 oct 2017,Martín Manassero
+223,Solitary Sandpiper,1,19 mar 2017,Sebastian Herzog
+224,Rusty-fronted Tody-Flycatcher,2,19 mar 2017,Sebastian Herzog
+225,Fuscous Flycatcher,1,19 mar 2017,Sebastian Herzog
+185,Blue-tufted Starthroat,X,19 may 2018,Tara Tuatai
+186,Dusky-green Oropendola,X,19 may 2018,Tara Tuatai
+325,Chestnut-bellied Seed-Finch,1,2 ago 2002,Tor Egil Høgsås
+259,Brazilian Teal,4,2 dic 2014,Kent Miller
+260,White-backed Fire-eye,1,2 dic 2014,Kent Miller
+18,Squirrel Cuckoo,2,2 ene 2019,Joshua Covill
+19,Southern Lapwing,1,2 ene 2019,Joshua Covill
+20,Wattled Jacana,1,2 ene 2019,Joshua Covill
+21,Wood Stork,1,2 ene 2019,Joshua Covill
+22,Anhinga,3,2 ene 2019,Joshua Covill
+23,Black-crowned Night-Heron,2,2 ene 2019,Joshua Covill
+24,Bare-faced Ibis,8,2 ene 2019,Joshua Covill
+25,Black Vulture,7,2 ene 2019,Joshua Covill
+26,Turkey Vulture,3,2 ene 2019,Joshua Covill
+27,Osprey,1,2 ene 2019,Joshua Covill
+28,Plumbeous Kite,16,2 ene 2019,Joshua Covill
+29,Roadside Hawk,4,2 ene 2019,Joshua Covill
+30,Green Kingfisher,2,2 ene 2019,Joshua Covill
+31,Rufous-tailed Jacamar,2,2 ene 2019,Joshua Covill
+32,Little Woodpecker,2,2 ene 2019,Joshua Covill
+33,Green-cheeked Parakeet,6,2 ene 2019,Joshua Covill
+34,Olivaceous Woodcreeper,1,2 ene 2019,Joshua Covill
+35,Buff-throated Woodcreeper,2,2 ene 2019,Joshua Covill
+36,Lesser Kiskadee,2,2 ene 2019,Joshua Covill
+37,Great Kiskadee,1,2 ene 2019,Joshua Covill
+38,Boat-billed Flycatcher,1,2 ene 2019,Joshua Covill
+39,Streaked Flycatcher,3,2 ene 2019,Joshua Covill
+40,Blue-and-white Swallow,12,2 ene 2019,Joshua Covill
+41,House Wren,4,2 ene 2019,Joshua Covill
+42,Yellow-rumped Cacique,3,2 ene 2019,Joshua Covill
+43,Silver-beaked Tanager,2,2 ene 2019,Joshua Covill
+44,Palm Tanager,2,2 ene 2019,Joshua Covill
+45,Guira Tanager,1,2 ene 2019,Joshua Covill
+304,Ochre-cheeked Spinetail,X,2 jul 2007,Rolf Mall
+274,Crane Hawk,1,2 oct 2012,Robert Tizard
+275,Campo Flicker,1,2 oct 2012,Robert Tizard
+276,Stripe-backed Antbird,1,2 oct 2012,Robert Tizard
+277,White-crested Tyrannulet,2,2 oct 2012,Robert Tizard
+278,Barn Swallow,2,2 oct 2012,Robert Tizard
+279,White-banded Mockingbird,1,2 oct 2012,Robert Tizard
+231,Bat Falcon,2,2 oct 2016,Claude Girard
+232,Hooded Tanager,1,2 oct 2016,Claude Girard
+242,Greater Thornbird,2,2 sep 2015,Forrest Rowland
+243,Gray Elaenia,1,2 sep 2015,Forrest Rowland
+244,Yellow-bellied Elaenia,2,2 sep 2015,Forrest Rowland
+194,Crimson-crested Woodpecker,1,20 ene 2018,Daniel Ordóñez
+195,Laughing Falcon,1,20 ene 2018,Daniel Ordóñez
+196,Pearly-vented Tody-Tyrant,1,20 ene 2018,Daniel Ordóñez
+197,Cattle Tyrant,1,20 ene 2018,Daniel Ordóñez
+198,Grayish Saltator,1,20 ene 2018,Daniel Ordóñez
+1,Guira Cuckoo,1,20 ene 2019,Matthew Rody
+2,Greater Ani,3,20 ene 2019,Matthew Rody
+3,Neotropic Cormorant,11,20 ene 2019,Matthew Rody
+4,Great Egret,1,20 ene 2019,Matthew Rody
+5,Cattle Egret,1,20 ene 2019,Matthew Rody
+6,Striated Heron,2,20 ene 2019,Matthew Rody
+7,Green Ibis,5,20 ene 2019,Matthew Rody
+8,Yellow-tufted Woodpecker,3,20 ene 2019,Matthew Rody
+9,Rufous Hornero,2,20 ene 2019,Matthew Rody
+10,Eastern Kingbird,1,20 ene 2019,Matthew Rody
+11,Purplish Jay,4,20 ene 2019,Matthew Rody
+12,Thrush-like Wren,4,20 ene 2019,Matthew Rody
+13,Creamy-bellied Thrush,1,20 ene 2019,Matthew Rody
+14,Crested Oropendola,1,20 ene 2019,Matthew Rody
+15,Chopi Blackbird,15,20 ene 2019,Matthew Rody
+16,Sayaca Tanager,2,20 ene 2019,Matthew Rody
+17,Saffron Finch,1,20 ene 2019,Matthew Rody
+201,Blue Ground-Dove,2,20 oct 2017,Martín Manassero
+202,Lesser Yellow-headed Vulture,1,20 oct 2017,Martín Manassero
+203,Great Black Hawk,1,20 oct 2017,Martín Manassero
+204,Mato Grosso Antbird,1,20 oct 2017,Martín Manassero
+205,Mouse-colored Tyrannulet,1,20 oct 2017,Martín Manassero
+206,Greenish Elaenia,1,20 oct 2017,Martín Manassero
+207,Yellow-margined Flycatcher,1,20 oct 2017,Martín Manassero
+208,Flavescent Warbler,1,20 oct 2017,Martín Manassero
+209,Orange-headed Tanager,6,20 oct 2017,Martín Manassero
+266,Andean Motmot,1,21 nov 2013,Jenny Bowman
+267,Swainsons Thrush,1,21 nov 2013,Jenny Bowman
+268,Rufous-collared Sparrow,1,21 nov 2013,Jenny Bowman
+343,Masked Duck,X,22 ago 1993,Matt Brady
+296,Versicolored Emerald,1,22 ago 2008,John Drummond
+227,Mississippi Kite,1,22 dic 2016,Hugo Santa Cruz
+143,Amazon Kingfisher,1,22 sep 2018,Rich Hoyer
+144,Yellow-collared Macaw,2,22 sep 2018,Rich Hoyer
+145,Rusty-margined Flycatcher,2,22 sep 2018,Rich Hoyer
+146,Black-backed Grosbeak,1,22 sep 2018,Rich Hoyer
+147,Red-crested Finch,1,22 sep 2018,Rich Hoyer
+310,White-fronted Woodpecker,1,23 ene 2005,Robert Dobbs
+233,Chaco Chachalaca,20,23 jul 2016,Barbara DeWitt
+342,Yellow-browed Tyrant,X,24 jul 1996,Sebastian Herzog
+326,Peach-fronted Parakeet,X,24 nov 2001,Mark Gawn
+327,Dull-capped Attila,X,24 nov 2001,Mark Gawn
+52,White-faced Whistling-Duck,X,25 nov 2018,Anahi Cosky Paca Condori
+53,Comb Duck,X,25 nov 2018,Anahi Cosky Paca Condori
+54,Speckled Chachalaca,X,25 nov 2018,Anahi Cosky Paca Condori
+55,Smooth-billed Ani,X,25 nov 2018,Anahi Cosky Paca Condori
+56,Gilded Hummingbird,X,25 nov 2018,Anahi Cosky Paca Condori
+57,Limpkin,X,25 nov 2018,Anahi Cosky Paca Condori
+58,Snowy Egret,X,25 nov 2018,Anahi Cosky Paca Condori
+59,Whistling Heron,X,25 nov 2018,Anahi Cosky Paca Condori
+60,Tropical Screech-Owl,X,25 nov 2018,Anahi Cosky Paca Condori
+61,Blue-crowned Trogon,X,25 nov 2018,Anahi Cosky Paca Condori
+62,Amazonian Motmot,X,25 nov 2018,Anahi Cosky Paca Condori
+63,Ringed Kingfisher,X,25 nov 2018,Anahi Cosky Paca Condori
+64,Chestnut-eared Aracari,X,25 nov 2018,Anahi Cosky Paca Condori
+65,Collared Forest-Falcon,X,25 nov 2018,Anahi Cosky Paca Condori
+66,Yellow-headed Caracara,X,25 nov 2018,Anahi Cosky Paca Condori
+67,Yellow-chevroned Parakeet,X,25 nov 2018,Anahi Cosky Paca Condori
+68,Blue-winged Parrotlet,X,25 nov 2018,Anahi Cosky Paca Condori
+69,Chestnut-fronted Macaw,X,25 nov 2018,Anahi Cosky Paca Condori
+70,Barred Antshrike,X,25 nov 2018,Anahi Cosky Paca Condori
+71,Tropical Kingbird,X,25 nov 2018,Anahi Cosky Paca Condori
+72,Black-tailed Tityra,X,25 nov 2018,Anahi Cosky Paca Condori
+73,Purple-throated Euphonia,X,25 nov 2018,Anahi Cosky Paca Condori
+74,Shiny Cowbird,X,25 nov 2018,Anahi Cosky Paca Condori
+75,Giant Cowbird,X,25 nov 2018,Anahi Cosky Paca Condori
+76,Red-crested Cardinal,X,25 nov 2018,Anahi Cosky Paca Condori
+77,Red-capped Cardinal,X,25 nov 2018,Anahi Cosky Paca Condori
+283,Rufous-thighed Kite,1,26 dic 2010,Michael Harvey
+284,Velvet-fronted Grackle,1,26 dic 2010,Michael Harvey
+218,Golden-olive Woodpecker,1,26 may 2017,Hugo Santa Cruz
+172,Black-bellied Whistling-Duck,2,28 jul 2018,Chandler Dolan
+173,Black-throated Mango,1,28 jul 2018,Chandler Dolan
+174,Golden-green Woodpecker,1,28 jul 2018,Chandler Dolan
+175,Cobalt-winged Parakeet,3,28 jul 2018,Chandler Dolan
+291,Spot-breasted Woodpecker,1,28 nov 2009,Sebastian Herzog
+91,Rock Pigeon,4,28 oct 2018,Olivier Langrand
+92,Yellow-billed Cuckoo,1,28 oct 2018,Hugo Santa Cruz
+93,Swallow-tailed Kite,2,28 oct 2018,Hugo Santa Cruz
+94,Snail Kite,1,28 oct 2018,Hugo Santa Cruz
+95,Black-banded Woodcreeper,3,28 oct 2018,Hugo Santa Cruz
+96,Smoke-colored Pewee,1,28 oct 2018,Hugo Santa Cruz
+97,Social Flycatcher,1,28 oct 2018,Hugo Santa Cruz
+98,Crowned Slaty Flycatcher,1,28 oct 2018,Hugo Santa Cruz
+99,Tropical Parula,1,28 oct 2018,Hugo Santa Cruz
+191,Small-billed Tinamou,X,29 abr 2018,Miguel Angel Montenegro Avila
+309,Rufous-bellied Thrush,X,29 mar 2005,Benjamin Freeman
+320,Pale-legged Hornero,1,29 may 2003,Robert Dobbs
+321,Cinereous Tyrant,1,29 may 2003,Robert Dobbs
+322,Black-capped Donacobius,1,29 may 2003,Robert Dobbs
+297,Sparkling Violetear,X,3 jun 2008,David Blevins
+298,White-necked Thrush,X,3 jun 2008,David Blevins
+280,Lined Seedeater,X,3 mar 2012,Diego Monteleone
+333,Red-legged Seriema,X,3 oct 2001,Andrew Farnsworth
+334,Lesser Elaenia,X,3 oct 2001,Andrew Farnsworth
+335,Wedge-tailed Grass-Finch,X,3 oct 2001,Andrew Farnsworth
+134,White-bellied Nothura,2,3 oct 2018,Todd Pepper
+135,White-collared Swift,6,3 oct 2018,Todd Pepper
+136,Burrowing Owl,1,3 oct 2018,Todd Pepper
+137,Spot-backed Puffbird,1,3 oct 2018,Todd Pepper
+138,White Woodpecker,2,3 oct 2018,Todd Pepper
+139,Great Rufous Woodcreeper,1,3 oct 2018,Todd Pepper
+140,Chotoy Spinetail,1,3 oct 2018,Todd Pepper
+141,White-naped Xenopsaris,1,3 oct 2018,Todd Pepper
+142,Two-banded Warbler,2,3 oct 2018,Todd Pepper
+46,Rufescent Tiger-Heron,1,30 nov 2018,Sandra Retamozo
+47,Cocoi Heron,2,30 nov 2018,Sandra Retamozo
+48,Pale-crested Woodpecker,1,30 nov 2018,Sandra Retamozo
+49,Southern Caracara,1,30 nov 2018,Sandra Retamozo
+50,Monk Parakeet,X,30 nov 2018,Sandra Retamozo
+51,Narrow-billed Woodcreeper,1,30 nov 2018,Sandra Retamozo
+78,Picazuro Pigeon,4,30 oct 2018,Gustavo Cañas Valle
+79,Common Gallinule,1,30 oct 2018,Gustavo Cañas Valle
+80,Ferruginous Pygmy-Owl,1,30 oct 2018,Gustavo Cañas Valle
+81,Lineated Woodpecker,2,30 oct 2018,Gustavo Cañas Valle
+82,Scaly-headed Parrot,2,30 oct 2018,Gustavo Cañas Valle
+83,Bolivian Slaty-Antshrike,2,30 oct 2018,Gustavo Cañas Valle
+84,Straight-billed Woodcreeper,1,30 oct 2018,Gustavo Cañas Valle
+85,Black-crowned Tityra,1,30 oct 2018,Gustavo Cañas Valle
+86,Fawn-breasted Wren,2,30 oct 2018,Gustavo Cañas Valle
+87,Hauxwells Thrush,1,30 oct 2018,Gustavo Cañas Valle
+88,Black-billed Thrush,1,30 oct 2018,Gustavo Cañas Valle
+89,Variable Oriole,2,30 oct 2018,Gustavo Cañas Valle
+90,Golden-crowned Warbler,1,30 oct 2018,Gustavo Cañas Valle
+341,Gray-rumped Swift,2,30 sep 1997,Sebastian Herzog
+281,Collared Trogon,1,31 dic 2010,Kent Miller
+282,Sepia-capped Flycatcher,1,31 dic 2010,Kent Miller
+183,Vermilion Flycatcher,X,31 may 2018,Hugo Caverzasi
+184,Yellow-billed Cardinal,X,31 may 2018,Hugo Caverzasi
+301,Military Macaw,2,4 dic 2007,Matt Brady
+302,Grassland Sparrow,4,4 dic 2007,Matt Brady
+212,Sungrebe,1,5 ago 2017,Robert Parsons
+213,Striped Cuckoo,1,5 ago 2017,rudy gelis
+214,Masked Gnatcatcher,2,5 ago 2017,rudy gelis
+300,Southern Screamer,X,5 dic 2007,Matt Brady
+189,Plumbeous Ibis,X,5 may 2018,Anahi Cosky Paca Condori
+190,Southern Rough-winged Swallow,X,5 may 2018,Anahi Cosky Paca Condori
+323,Little Blue Heron,X,5 nov 2002,John ODonnell
+324,Tyrian Metaltail,X,5 nov 2002,John ODonnell
+269,Spotted Sandpiper,1,5 oct 2013,Sebastian Herzog
+270,Small-billed Elaenia,1,5 oct 2013,Sebastian Herzog
+315,Scissor-tailed Nightjar,1,5 sep 2004,Simon RB Thompson
+316,Azaras Spinetail,1,5 sep 2004,Simon RB Thompson
+317,Green-backed Becard,1,5 sep 2004,Simon RB Thompson
+171,Screaming Cowbird,X,5 sep 2018,Tini & Jacob Wijpkema
+211,Capped Heron,1,6 ago 2017,Robert Parsons
+319,Golden-rumped Euphonia,X,6 jul 2004,Carlos Agulian
+303,Spot-winged Pigeon,X,6 oct 2007,Eva Matthews Lark
+100,White-bellied Hummingbird,1,6 oct 2018,Hugo Santa Cruz
+101,Glittering-throated Emerald,1,6 oct 2018,Hugo Santa Cruz
+102,Blue-headed Parrot,1,6 oct 2018,Hugo Santa Cruz
+103,Undulated Tinamou,X,6 oct 2018,Anahi Cosky Paca Condori
+104,Ruddy Ground-Dove,X,6 oct 2018,Anahi Cosky Paca Condori
+105,Picui Ground-Dove,X,6 oct 2018,Anahi Cosky Paca Condori
+106,White-tipped Dove,X,6 oct 2018,Anahi Cosky Paca Condori
+107,Buff-bellied Hermit,X,6 oct 2018,Anahi Cosky Paca Condori
+108,Glittering-bellied Emerald,X,6 oct 2018,Anahi Cosky Paca Condori
+109,Gray-cowled Wood-Rail,X,6 oct 2018,Anahi Cosky Paca Condori
+110,Boat-billed Heron,X,6 oct 2018,Anahi Cosky Paca Condori
+111,White-faced Ibis,X,6 oct 2018,Anahi Cosky Paca Condori
+112,White-tailed Kite,X,6 oct 2018,Anahi Cosky Paca Condori
+113,Savanna Hawk,X,6 oct 2018,Anahi Cosky Paca Condori
+114,Black-fronted Nunbird,X,6 oct 2018,Anahi Cosky Paca Condori
+115,Toco Toucan,X,6 oct 2018,Anahi Cosky Paca Condori
+116,Barred Forest-Falcon,X,6 oct 2018,Anahi Cosky Paca Condori
+117,Chimango Caracara,X,6 oct 2018,Anahi Cosky Paca Condori
+118,American Kestrel,X,6 oct 2018,Anahi Cosky Paca Condori
+119,Dusky-headed Parakeet,2,6 oct 2018,E. Gustavo Sánchez Avila
+120,Blue-crowned Parakeet,X,6 oct 2018,Anahi Cosky Paca Condori
+121,White-eyed Parakeet,X,6 oct 2018,Anahi Cosky Paca Condori
+122,Giant Antshrike,X,6 oct 2018,Anahi Cosky Paca Condori
+123,Strong-billed Woodcreeper,X,6 oct 2018,Anahi Cosky Paca Condori
+124,Ocellated Woodcreeper,X,6 oct 2018,Anahi Cosky Paca Condori
+125,Yellow-olive Flycatcher,X,6 oct 2018,Anahi Cosky Paca Condori
+126,Brown-crested Flycatcher,X,6 oct 2018,Anahi Cosky Paca Condori
+127,Variegated Flycatcher,X,6 oct 2018,Anahi Cosky Paca Condori
+128,Rufous-browed Peppershrike,X,6 oct 2018,Anahi Cosky Paca Condori
+129,Chivi Vireo,X,6 oct 2018,Anahi Cosky Paca Condori
+130,Plush-crested Jay,X,6 oct 2018,Anahi Cosky Paca Condori
+131,Brown-chested Martin,X,6 oct 2018,Anahi Cosky Paca Condori
+132,Epaulet Oriole,1,6 oct 2018,E. Gustavo Sánchez Avila
+133,House Sparrow,X,6 oct 2018,Anahi Cosky Paca Condori
+199,Turquoise-fronted Parrot,2,7 dic 2017,Daniel Ordóñez
+200,Gray-breasted Martin,5,7 dic 2017,Daniel Ordóñez
+262,Short-tailed Swift,6,7 oct 2014,Sebastian Herzog
+263,Agami Heron,1,7 oct 2014,Sebastian Herzog
+264,Bicolored Hawk,1,7 oct 2014,Sebastian Herzog
+265,Solitary Black Cacique,3,7 oct 2014,Sebastian Herzog
+336,Amazonian Grosbeak,1,8 ago 2001,Lucio Luc Fazio
+292,Sicks Swift,X,8 sep 2008,Jay VanderGaast
+293,Green-and-rufous Kingfisher,1,8 sep 2008,Jay VanderGaast
+294,White-lored Spinetail,1,8 sep 2008,Jay VanderGaast
+295,White-bellied Tyrannulet,X,8 sep 2008,Jay VanderGaast
+162,Southern Beardless-Tyrannulet,1,8 sep 2018,Daniel Lane
+163,Southern Scrub-Flycatcher,1,8 sep 2018,Daniel Lane
+164,Plain Tyrannulet,2,8 sep 2018,Daniel Lane
+165,Tawny-crowned Pygmy-Tyrant,1,8 sep 2018,Daniel Lane
+166,Rufous Casiornis,2,8 sep 2018,Daniel Lane
+167,Green Jay,1,8 sep 2018,Micah Riegner
+168,Scaly-breasted Wren,1,8 sep 2018,Micah Riegner
+169,Mitred Parakeet,7,8 sep 2018,Jose V. Padilla-Lopez, M.D.
+170,Chestnut-vented Conebill,2,8 sep 2018,Jose V. Padilla-Lopez, M.D.
+999,Leptotila sp.,1,10 dic 2015,Glenn Seeholzer
+999,yellow-finch sp.,5,10 dic 2015,Glenn Seeholzer
+999,blackbird sp.,400,10 mar 2016,Kent Miller
+999,Accipiter sp.,1,4 dic 2007,Matt Brady
+999,Synallaxis sp.,4,13 may 2001,Mich Coker
+999,new world piculet sp.,1,22 sep 2018,Rich Hoyer
+999,Tolmomyias sp.,X,15 dic 2007,Ryan Terrill
+999,Turdus sp.,10,7 sep 2009,Tor Egil Høgsås
+999,swift sp.,10,15 oct 2004,Tor Egil Høgsås

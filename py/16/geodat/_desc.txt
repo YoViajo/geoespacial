@@ -1,0 +1,6 @@
+https://cmr.earthdata.nasa.gov/search/concepts/C1979882997-GHRC_DAAC.html
+
+LIS 0.1 DEGREE VERY HIGH RESOLUTION GRIDDED LIGHTNING ANNUAL CLIMATOLOGY (VHRAC) V1
+
+The LIS 0.1 Degree Very High Resolution Gridded Lightning Annual Climatology (VHRAC) dataset consists of gridded annual climatologies of total lightning flash rates seen by the Lightning Imaging Sensor (LIS) from January 1, 1998 through December 31, 2013. 
+

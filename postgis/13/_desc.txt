@@ -1,0 +1,7 @@
+https://mappinggis.com/2020/01/como-integrar-postgresql-postgis-en-r/
+Operaciones básicas con Postgresql/Postgis
+
+- Conexión a BD
+- Listado de tablas
+- Consulta de tabla
+- Borrado de elemento de tabla

@@ -1,0 +1,1 @@
+Recortar capa formato netCDF

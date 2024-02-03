@@ -1,0 +1,4 @@
+Importación de archivo GPX a PostgreSQL (PostGIS)
+
+Prueba con formato intermedio (GPKG) para mantener la integridad de los datos
+

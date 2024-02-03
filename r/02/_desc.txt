@@ -1,0 +1,5 @@
+https://dominicroye.github.io/en/2022/hillshade-effects/
+Hillshade effects
+
+Ejemplo para Bolivia y departamentos (CH, CO, OR, SC, TA)
+

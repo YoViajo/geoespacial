@@ -1,0 +1,15 @@
+
+# Importar contenido GPX a PGSQL
+ogr2ogr -f "PostgreSQL"  PG:"dbname="db_rocky"" /home/yoviajo/OneDrive/LAB/geomat/gps/mi_watch_lite/rocky/import/20220125111705_Running.gpx  -nln test -sql "Select * From tracks"
+
+# Importar contenido GPKG a PGSQL
+> ogr2ogr -f PostgreSQL "PG:host=localhost port=5432 dbname='bd_rocky' user='postgres' password='postgres'" /home/yoviajo/OneDrive/LAB/geomat/gps/mi_watch_lite/mi_watch_lite_rocky.gpkg
+
+# Convertir GPX a SHP
+gpsbabel -t -i gpx -f /home/yoviajo/OneDrive/LAB/geomat/gps/mi_watch_lite/rocky/import/tmp/20220118111307_Running.gpx -o shape -F /home/yoviajo/Documentos/lab/geom/postgis/03/20220118111307_Running.shp
+
+# Preparar archivo shape para importación a PGSQL
+> shp2pgsql -s 4326  -I /home/yoviajo/Documentos/lab/geom/postgis/03/20220118111307_Running.shp public.20220118111307_Running > 20220118111307_Running.sql
+
+# Incorporar contenido a PGSQL
+> psql -d db_rocky -h localhost -U postgres -f 20220118111307_Running.sql

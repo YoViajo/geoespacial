@@ -1,0 +1,3 @@
+Revisión de conjunto de datos FABDEM (Forest And Buildings removed Copernicus DEM) para Bolivia
+
+Preparación de datos: recorte a límite nacional

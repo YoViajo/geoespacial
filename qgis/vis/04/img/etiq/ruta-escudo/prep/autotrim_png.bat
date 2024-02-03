@@ -1,0 +1,1 @@
+FOR %%a IN (*.png) DO convert -trim %%a .\modif\%%a

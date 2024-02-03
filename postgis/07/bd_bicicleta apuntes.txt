@@ -1,0 +1,44 @@
+
+// CREACIÓN DE CAMPOS TABLA <tmp_bici_2022>
+fecha_txt = concat("tmp_fecha_anio","tmp_fecha_mes","tmp_fecha_dia") 
+fecha_anio = to_int("tmp_fecha_anio")
+fecha_mes = to_int("tmp_fecha_mes")
+fecha_dia = to_int("tmp_fecha_dia")
+distanc_m = round($length,0)
+
+// CONSULTAS
+SELECT round(max(distanc_m)/1000,1) AS "Distancia (Km)" FROM tmp_bici_2022;
+>>Distancia (Km)
+52.0
+
+
+SELECT min(distanc_m) AS "Distancia (m)" FROM tmp_bici_2022;
+>>Distancia (m)
+645
+
+
+SELECT fecha_mes, (sum(distanc_m)/1000) AS "Distancia mes (Km)"
+FROM tmp_bici_2022
+GROUP BY "fecha_mes"
+ORDER BY "Distancia mes (Km)" DESC;
+>>fecha_mes	Distancia mes (Km)
+4	87
+3	74
+1	63
+5	23
+2	12
+
+
+SELECT fecha_mes, round((avg(distanc_m)/1000),1) AS "Distancia mes (Km)"
+FROM tmp_bici_2022
+GROUP BY "fecha_mes"
+ORDER BY "Distancia mes (Km)" DESC;
+>>fecha_mes	Distancia mes (Km)
+4	29.2
+1	12.8
+3	12.4
+2	12.2
+5	12.0
+
+
+

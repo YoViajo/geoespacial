@@ -1,0 +1,6 @@
+
+rasterio
+    show(..., cmap= {terrain, viridis, Reds, Greens, Blues},...)
+
+
+gdalwarp -overwrite -te -69.643287175 -22.90803003 -57.452092049 -9.654608077 -te_srs EPSG:4326 -of GTiff -cutline "PG:dbname='bd_bolivia_base' host=localhost port=5432 sslmode=disable user='postgres' password='postgres'" -cl public.bo_limite_departamental_ed -crop_to_cutline /home/yoviajo/Documentos/lab/geom/geodat/raster/GLAD/builtup/Change_20S_060W.tif "/home/yoviajo/Documentos/lab/geom/geodat/raster/GLAD/builtup/Bolivia2/rec_Change_20S_060W 2.tif"

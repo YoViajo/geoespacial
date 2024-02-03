@@ -1,0 +1,1 @@
+Importación automatizada de archivos shape (en una carpeta) a BD

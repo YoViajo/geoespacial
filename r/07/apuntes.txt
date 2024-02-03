@@ -1,0 +1,12 @@
+Bolivia - cuadro delimitador
+
+min X: -69,644826519999995
+min Y: -22,906568380000000
+
+max X: -57,454433280000003
+max Y: -9,669632999999999
+
+
+X: valores entre "min X" y "max X"  ( >= min X  <= max X )
+Y: valores entre "min Y" y "max Y"  ( >= min Y  <= max Y )
+

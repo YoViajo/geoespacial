@@ -1,0 +1,4 @@
+https://github.com/giswqs/aws-open-data-geo
+Acceso programático a lista de conjuntos de datos disponibles públicamente en AWS.
+
+

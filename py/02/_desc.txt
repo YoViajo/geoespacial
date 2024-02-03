@@ -1,0 +1,4 @@
+https://gis.stackexchange.com/questions/79248/calculate-bounding-box-coordinates-of-a-selected-polygon-with-qgis
+Calculate bounding box coordinates of a selected polygon [QGIS]
+
+

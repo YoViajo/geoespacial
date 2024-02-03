@@ -1,0 +1,3 @@
+Prueba de fusión de carta 250L (JOG) con MDT (SRTM 30m) para la zona noroeste del Lago Titicaca
+
+basado en: https://github.com/clhenrick/gdal_hillshade_tutorial

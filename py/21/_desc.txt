@@ -1,0 +1,6 @@
+https://www.analyticsvidhya.com/blog/2020/06/learn-visualize-geospatial-data-jupyter-kepler/?fbclid=IwAR05hSG1knyRQbqD_h-Gny_XQlOYGoWSZD4Y7d8rSuPsYegcAFRG6eybjN8
+
+Visualizar datos geoespaciales usando kepler.gl
+
+Ejemplo para viajes Uber en la ciudad de NY
+

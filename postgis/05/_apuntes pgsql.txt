@@ -1,0 +1,6 @@
+
+# Importa volcado SQL con huellas de edificios para el dpto. de Santa Cruz
+\i '/home/yoviajo/Documentos/lab/geom/98/sbf_bolivia_santacruz.sql'
+
+# Importa volcado SQL con huellas de edificios para el dpto. de La Paz
+\i '/home/yoviajo/Documentos/lab/geom/98/sbf_bolivia_lapaz.sql'

@@ -1,0 +1,5 @@
+Importación de datos OSM de Bolivia a BD <bd_bolivia_osm>
+
+Aplicación de estilo "openstreetmap-carto"
+
+

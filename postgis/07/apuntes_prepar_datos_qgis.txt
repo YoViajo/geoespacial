@@ -1,0 +1,8 @@
+
+// Cálculo de campos de tabla <combin_2022_m0102030405>
+
+substr("layer",5,4) = año
+substr("layer",10,2) = mes
+substr("layer",13,2) = día
+
+concat(substr("layer",5,4),substr("layer",10,2),substr("layer",13,2))

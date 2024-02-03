@@ -1,0 +1,3 @@
+Editar los datos vector existentes usando las herramientas de dibujo y guardar los datos vector resultantes como GeoJSON
+
+herramienta: ambiente Streamlit

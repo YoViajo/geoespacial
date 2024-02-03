@@ -1,0 +1,3 @@
+Prueba de exportación a formato GeoPDF
+
+No se encontró lector GeoPDF para Linux para verificar funcionalidad

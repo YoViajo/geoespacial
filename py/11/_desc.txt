@@ -1,0 +1,5 @@
+UMD GLAD extensión y cambio de terreno construido
+
+Revisión de geodatos: v
+Recorte a extensión Bolivia: v
+Fusión/combinación mosaico: x, fallo en memoria

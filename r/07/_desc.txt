@@ -1,0 +1,14 @@
+Demostración de trabajo con datos netCDF en R
+
+Ejemplo con datos SPEI (Standardized Precipitation-Evapotranspiration Index) para el mundo y Bolivia
+
+
+netCDF
+https://pjbartlein.github.io/REarthSysSci/netCDF.html#introduction
+
+Ráster
+https://datacarpentry.org/r-raster-vector-geospatial/02-raster-plot/
+
+Datos SPEI
+https://spei.csic.es/database.html
+

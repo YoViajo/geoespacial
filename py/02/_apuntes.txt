@@ -1,0 +1,19 @@
+// Desde consola Python de QGIS
+def printBB():
+    feature = iface.activeLayer().selectedFeatures()[0]
+    print(feature.geometry().boundingBox().toString())
+
+printBB()
+
+
+// prueba para polígonos 
+
+//dpto. de SC (seleccionar polígono)
+-64.8409660798097178,-20.4726689993190547 : -57.4520920487607540,-13.4723788632907269
+
+// Bolivia
+-69.6448265199999952,-22.9065683799999995 : -57.4544332800000035,-9.6696329999999993
+
+// parámetros LCC (Santa Cruz dpto)
++proj=lcc +lat_1=-15.5 +lat_2=-19 +lat_0=-22 +lon_0=-61 +x_0=1000000 +y_0=0 +datum=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs
+

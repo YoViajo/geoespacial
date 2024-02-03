@@ -1,0 +1,17 @@
+ogr2ogr -f PostgreSQL "PG:dbname=bd_rocky" /home/yoviajo/OneDrive/LAB/geomat/gps/mi_watch_lite/mi_watch_lite_rocky.gpkg
+
+
+# Tabla de trabajo: 20210806211140_running
+
+# Agregar columna que almacena distancia
+ALTER public.20210806211140_running ADD dist_m real;
+
+ALTER a ADD COLUMN (dist_km real);
+
+# Actualizar el valor de la nueva columna con el cálculo de longitud en kilómetros
+UPDATE "20210806211140_running" 
+SET dist_km = ST_LENGTH(geom::geography) / 1000;
+
+
+UPDATE "20210806211140_running" 
+SET dist_km = ST_LENGTH(geom) / 1000;

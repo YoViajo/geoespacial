@@ -1,0 +1,45 @@
+** CONSULTAS A LA TABLA <combin_2022_m0102030405> de BD_ROCKY (esquema PUBLIC) **
+** (paseos 2022, entre 1 enero - 15 may) **
+
+
+// Listar distancias (en metros) en orden descendente
+SELECT distanc_m FROM combin_2022_m0102030405 ORDER BY distanc_m DESC;
+
+
+// Máxima distancia recorrida
+SELECT fecha_txt, max(distanc_m) FROM combin_2022_m0102030405;
+>> 4199 m
+
+
+// Distancia total recorrida
+SELECT sum(distanc_m) FROM combin_2022_m0102030405;
+>> 538901 m
+
+
+// Promedio de distancia recorrida por mes, orden descendente 
+SELECT fecha_mes AS mes, round(avg(distanc_m),0) AS "distancia promedio"
+FROM combin_2022_m0102030405
+GROUP BY fecha_mes
+ORDER BY "distancia promedio" DESC;
+>>mes	distancia promedio
+5	2285.0
+4	2223.0
+3	2168.0
+1	2104.0
+2	1988.0
+
+
+// Total recorrido por mes
+SELECT fecha_mes AS mes, sum(distanc_m) AS "distancia subtotal"
+FROM combin_2022_m0102030405
+GROUP BY fecha_mes
+ORDER BY "distancia subtotal" DESC;
+>>mes	distancia subtotal
+1	130477
+3	121429
+4	113356
+2	107373
+5	66266
+
+
+

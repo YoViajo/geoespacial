@@ -1,0 +1,2 @@
+https://mappinggis.com/2022/10/primeros-pasos-con-cartopy-paquete-de-python-para-crear-mapas/
+Primeros pasos con Cartopy: paquete de python para crear mapas

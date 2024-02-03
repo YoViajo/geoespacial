@@ -1,0 +1,5 @@
+https://opensourceoptions.com/blog/unsupervised-land-cover-classification-with-python/
+Unsupervised Land Cover Classification with Python
+
+
+X no logra cargarse librería GDAL, a pesar de estar instalada

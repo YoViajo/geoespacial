@@ -1,0 +1,9 @@
+https://github.com/opengeospatial/geoparquet
+https://github.com/opengeospatial/geoparquet/blob/main/examples/example.py
+https://storage.googleapis.com/open-geodata/linz-examples/nz-building-outlines.parquet
+https://geopandas.org/en/stable/docs/user_guide/io.html#apache-parquet-and-feather-file-formats
+
+Acceso Python a geoparquet
+
+Prueba con conjunto de datos ejemplo
+

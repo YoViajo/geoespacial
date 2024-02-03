@@ -1,0 +1,8 @@
+https://twitter.com/giswqs/status/1542922420713037832?t=mX45xCy20YgiU_IMSD_ryQ&s=09
+https://github.com/aazuspan/sankee
+Visualizing land cover change with interactive Sankey diagrams without coding
+
+Bboxfinder
+http://bboxfinder.com/#0.000000,0.000000,0.000000,0.000000
+
+Ejemplo para varias áreas de Bolivia, con 2 conjuntos de datos

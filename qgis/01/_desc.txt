@@ -1,0 +1,6 @@
+Prueba uso nueva proyección Equal Earth Projection
+
+- adición en QGIS
+https://twitter.com/MtnMapper/status/1057303396196249600/photo/1
+
+La Proyección Equal Earth mantiene los tamaños relativos de áreas como una manera de minimizar distorsión.
