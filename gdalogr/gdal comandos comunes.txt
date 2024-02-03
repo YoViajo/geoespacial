@@ -1,0 +1,11 @@
+# Generar un mosaico a partir de imágenes listadas en archivo externo
+python gdal_merge.py -n 0 -v -o mosaico.tif --optfile lista_tiff.txt
+
+# Fusionar imágenes generando salida en formato comprimido sin pérdida de datos, utilizar múltiples núcleos para procesar 
+gdalwarp -ot Byte -of GTiff -co COMPRESS=LZW -r mode -multi -wo NUM_THREADS=ALL_CPUS rec_19k_p.tif rec_19l_p.tif salida_19.tif
+
+gdalwarp -ot Byte -of GTiff -co COMPRESS=LZW -r mode -multi -wo NUM_THREADS=ALL_CPUS rec_20k_p.tif rec_20l_p.tif salida_20.tif
+
+gdalwarp -ot Byte -of GTiff -co COMPRESS=LZW -r mode -multi -wo NUM_THREADS=ALL_CPUS salida_19.tif salida_20.tif rec_21k_p.tif salida_combin.tif
+
+

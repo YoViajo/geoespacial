@@ -1,0 +1,16 @@
+
+# Encontrar archivo por tamaño (> 1 gigabyte)
+find /media/yoviajo/xJupiter/PROF/geodat/BOL/ -type f -size +1G 
+
+# Encontrar archivo por tamaño (> 1 gigabyte) y extensión (TIF)
+find /media/yoviajo/xJupiter/PROF/geodat/BOL/ -type f -name "*.tif" -size +1G 
+
+# Obtener más información del archivo, con listado de tamaño "leible para humanos"
+ls -l -h /media/yoviajo/xJupiter/PROF/geodat/BOL/orig/tierCob/_bosque/UMD_GLAD/primary/bo_SouthAmerica_2001_primary.tif
+
+
+# Comprimir archivo TIF, sin pérdida de datos
+gdal_translate -of GTiff -co COMPRESS=LZW "/media/yoviajo/xJupiter/PROF/geodat/BOL/orig/tierCob/_bosque/UMD_GLAD/primary/bo_SouthAmerica_2001_primary.tif" "/media/yoviajo/xJupiter/PROF/geodat/BOL/orig/tierCob/_bosque/UMD_GLAD/primary/bo_SouthAmerica_2001_primary_p.tif"
+
+gdal_translate -of GTiff -co COMPRESS=LZW "/media/yoviajo/xJupiter/PROF/geodat/BOL/orig/tierCob/_bosque/UMD_GLAD/height/bol_Forest_height_2019_SAM.tif" "/media/yoviajo/xJupiter/PROF/geodat/BOL/orig/tierCob/_bosque/UMD_GLAD/height/bol_Forest_height_2019_SAM_p.tif"
+

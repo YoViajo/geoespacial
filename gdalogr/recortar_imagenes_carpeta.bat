@@ -1,0 +1,1 @@
+FOR %%A IN (*.tif) DO gdalwarp -cutline "C:\temp\OneDrive\LAB\geomat\geodat\base\bo-limite_departamental.shp" -crop_to_cutline -dstalpha %%A .\recorte\bol_%%A

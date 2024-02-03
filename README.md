@@ -15,3 +15,5 @@ Herramientas y técnicas geoespaciales
 [QGIS](qgis/README.md)
 
 [Web geo](geoweb/README.md)
+
+[GDAL/OGR](gdalogr/README.md)

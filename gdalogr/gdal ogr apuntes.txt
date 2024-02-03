@@ -1,0 +1,18 @@
+## Recorte de ráster con capa vector shp
+
+cd "\PROF\geodat\global\orig\tierraUso\ghs\GHS_BUILT_LDS1975_GLOBE_R2016A_3857_38_v1_0" 
+gdalwarp -cutline dslv_bolivia_dptos_pme.shp -crop_to_cutline -dstalpha GHS_BUILT_LDS1975_GLOBE_R2016A_3857_38_v1_0_p1.tif salida.tif
+
+
+## Cambio de profundidad de píxel
+
+Most of the GDAL functions allow you to specify the pixel depth with the commandline tag -ot (for instance see the documentation on gdal_translate or gdal_rasterize). The -ot switch can take the values Byte/Int16/UInt16/UInt32/Int32/Float32/Float64/ CInt16/CInt32/CFloat32/CFloat64.
+
+gdal_translate -ot UInt16 elevation.tif elevation_uint16b.tif
+
+
+## Reescalado de valores
+
+Use the scale parameter in the gdal_translate function to rescale the input pixels values from the original range to the desired range.
+
+gdal_translate -scale 10 1500 0 255 elevation.tif elevation_255.tif
