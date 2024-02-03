@@ -25,10 +25,15 @@
 
 [Prueba de acceso a bases de datos desde Visual Studio Code](10/)
 
-[Revisión de geodatos PostGIS desde QGIS](11/)
-
 [Generadores de cuadrículas](12/)
 
 [Operaciones básicas con Postgresql/Postgis usando [R]](13/integrar_postgresql_postgis.R)
 
+**QGIS & POSTGIS**
+
+[Revisión de geodatos PostGIS desde QGIS](11/)
+
+[Revisión & preparación de geodatos en QGIS](15/)
+
 [Introducción a PgMetadata, un complemento QGIS para almacenar metadatos](14/)
+
