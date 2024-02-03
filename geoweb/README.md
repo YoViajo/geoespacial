@@ -14,3 +14,4 @@ Geo web
 
 [Aplicación inmobiliaria Barrio Las Palmas](04/)
 
+[Capas sobre Bolivia - datos Censo 2001 (cartodb)](05/)

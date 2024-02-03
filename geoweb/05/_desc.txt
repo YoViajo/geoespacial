@@ -1,0 +1,7 @@
+Prueba de publicación de capas sobre Bolivia (datos Censo 2001)
+
+> implementado en Cartodb
+
+= centros poblado de Bolivia (2001)
+= departamentos seleccionados
+
