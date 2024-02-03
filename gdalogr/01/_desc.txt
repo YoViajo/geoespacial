@@ -1,0 +1,1 @@
+Recorte de ráster usando Python en entorno de Jupyter Notebook (VSCode).
