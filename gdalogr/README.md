@@ -6,7 +6,7 @@ Ejercicios con la biblioteca de software libre para la lectura y escritura de da
 
 ## 📊 Contenido
 
-[Comandos comunes](03/gdal%20comandos%20comunes.txt)
+[Comandos comunes](03/)
 
 [Recorte ráster con vector](01/)
 
