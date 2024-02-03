@@ -1,0 +1,1 @@
+Demostración básica de visualización de imágenes GEE
