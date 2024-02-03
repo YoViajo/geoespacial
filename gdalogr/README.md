@@ -15,3 +15,6 @@ Ejercicios con la biblioteca de software libre para la lectura y escritura de da
 [Convierte formatos (DGN > SHP)](05/convierte_dgn_shp.bat)
 
 [Convierte formatos (SHP > GeoJSON)](06/convertir%20a%20GeoJSON.txt)
+
+[gdalinfo - revisión](07/)
+
