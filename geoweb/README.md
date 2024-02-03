@@ -8,4 +8,6 @@ Geo web
 
 [Primer mapa interactivo que usa Leaflet](01/leaflet_primer.html)
 
+[Recorrido de bicicleta en la ciudad de Scz (qgis+gis2web)](02/)
+
 
