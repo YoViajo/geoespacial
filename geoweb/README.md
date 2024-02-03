@@ -10,4 +10,4 @@ Geo web
 
 [Recorrido de bicicleta en la ciudad de Scz (qgis+gis2web)](02/)
 
-
+[Introducción a Folium](03/)
