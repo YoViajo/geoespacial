@@ -8,8 +8,9 @@ Ejercicios con la biblioteca de software libre para la lectura y escritura de da
 
 [Comandos comunes](03/gdal%20comandos%20comunes.txt)
 
-[Recorte ráster](01/recortar_ras_shp_lotes.ipynb)
+[Recorte ráster con vector](01/)
 
 [Compresión de GeoTIFF](02/comprimir_geotiffs.sh)
 
-[]
+[Convierte formatos (DGN > SHP)](05/convierte_dgn_shp.bat)
+
