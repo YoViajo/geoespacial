@@ -1,0 +1,10 @@
+https://docs.mapflow.ai/api/qgis_mapflow#user-interface
+
+Prueba de complemento Mapflow para QGIS: detección IA para imágenes de satélite
+
+Ejercicio en dpto. SC: edificios, cultivos, bosque, caminos
+
+
+https://app.mapflow.ai/en/projects
+Habilitación de complemento (API token)
+

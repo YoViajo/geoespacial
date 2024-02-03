@@ -34,6 +34,8 @@ Software QGIS
 
 [Revisión de conjunto de datos FABDEM](11/)
 
+[Detección IA para imágenes de satélite con complemento Mapflow](12/)
+
 **CARTOGRAFÍA & VISUALIZACIÓN**
 
 [Principales áreas urbanas de Bolivia](vis/12/)

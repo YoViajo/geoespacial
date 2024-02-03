@@ -1,0 +1,14 @@
+Mapflow API token
+
+cmNybWpAaG90bWFpbC5jb206VExBYW5wQUZId1JZR0ZDZEQxMnc=
+
+
+======================================================
+
+Scz, Plaza 24 de Septiembre, centro
+-17.783316
+-63.182128
+
+
+Google Maps llave API, proyecto "Bolivia-geo"
+= AIzaSyDYcrc_cM9eIPYjgYP04fhOkmk0l7K6mvA
