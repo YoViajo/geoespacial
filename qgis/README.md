@@ -8,6 +8,8 @@ Software QGIS
 
 **BASE**
 
+[Inicio de versión Python/Anaconda (linux shell)](14/inic_qgis.sh)
+
 [Adición de mapas base](06/qgis_basemaps.py)
 
 [Prueba uso nueva proyección Equal Earth Projection](01/)
