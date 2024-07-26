@@ -1,0 +1,2 @@
+# Fusiona todos los archivo KML de un directorio en una sola capa, agregando un campo que registra la fuente
+ogrmerge -single -o fusionado.gpkg *.kml -nln fusionado -src_layer_field_name source

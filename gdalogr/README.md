@@ -8,6 +8,8 @@ Ejercicios con la biblioteca de software libre para la lectura y escritura de da
 
 [Comandos comunes](03/)
 
+[Fusión de capas KML y guardado en GPKG](08/fusionar_kml_gpkg.txt)
+
 [Recorte ráster con vector](01/)
 
 [Compresión de GeoTIFF](02/comprimir_geotiffs.sh)
